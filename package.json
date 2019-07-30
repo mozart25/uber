@@ -1,0 +1,16 @@
+{
+  "name": "uber",
+  "version": "1.0.0",
+  "description": "server for the uber",
+  "main": "index.js",
+  "repository": "https://github.com/mozart25/uber",
+  "author": "mozart25 <mozartlee28@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.6.8",
+    "nodemon": "^1.19.1",
+    "ts-node": "^8.3.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.5.3"
+  }
+}
