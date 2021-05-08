@@ -33,6 +33,6 @@
     "merge-graphql-schemas": "^1.6.2-3705b28.0",
     "morgan": "^1.9.1",
     "pg": "^7.12.0",
-    "typeorm": "^0.2.18"
+    "typeorm": "^0.2.25"
   }
 }
